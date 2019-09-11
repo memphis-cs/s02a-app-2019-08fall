@@ -3,5 +3,5 @@ class PagesController < ApplicationController
     respond_to do |format|
       format.html { render :s02a }
     end
-   end
+  end
 end
